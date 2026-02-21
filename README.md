@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [SHESAFE WEBSITE] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [CTRL+EXPERIENCE]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [ALEENA R SHAMIN] - [MAR BASELIOS COLLEGE OF ENGINEERING AND TECHNOLOGY]
+- Member 2: [DIYA A] - [MAR BASELIOS COLLEGE OF ENGINEERING AND TECHNOLOGY]]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://mug-fun-69135483.figma.site/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[WEBSITE PROVIDES SAFETY AND SECURITY FOR WOWEN BY AI INTEGRATED DEFENSE FEATURES.NOT ONLY REACTS TO ACCIDENTS BUT DETECTS AND PREVENTS THEM]
 
 ### The Problem statement
-[What problem are you solving?]
+[WOMEN FACE ALOT OF SAFETYT ISSUES EVEN NOW IN DIFFERENT PARTS OF THE SOCIETY.{NIGHT,PUBLIC TRANSPORTATION,WORK PLACES]
 
 ### The Solution
-[How are you solving it?]
+[WE CREATE AN AI INTEGRATED WEBSITE WITH DEFENSIVE FEATURES INCLUDING ANTI STALKER,FAKE CALL GENERATOR ETC.]
 
 ---
 
@@ -31,25 +31,24 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [e.g., HTML]
+- Frameworks used: [e.g.,FIGMA MAKE]
+- Libraries used: 
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: [DEFENSIVE MODES]
+- Specifications: [FAKE CALL GENERATOR,ANTI STALKER MODE,SOS,VOICE DETETCTOR,AUTO VIDEO RECORDING]
+- Tools required: [FIGMA MAKE,]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- SMART MAP:PROVIDES SAFEST AND SHORTEST ROUTES DEPENDING ON YOUR CONVENIENCE.
+- AREA RISK DETECTOR:DETECTS RISKS OF AREAS BASED ON PAST CRIMES AND INCIDENTS
+- DEFENSIVE MODE:USES AI INTEGRATED WITH OUR WEBSITE FOR ACCURATE AND SPOT ON RESPONSES
+- RISK/TREND PATTERN:PROVIDES GRAPHS/ANALYTICS BASED ON THE WEEKS SCENARIO
 
 ---
 
@@ -59,8 +58,7 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
+.html
 
 #### Run
 ```bash
@@ -137,7 +135,7 @@ List the key features of your project:
 
 #### API Documentation
 
-**Base URL:** `https://api.yourproject.com`
+**Base URL:** https://mug-fun-69135483.figma.site/insights
 
 ##### Endpoints
 
@@ -374,7 +372,7 @@ python script.py -v --format json data.json
 
 If you used AI tools during development, document them here for transparency:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
+**Tool Used:** [e.g., CHATGPT]]
 
 **Purpose:** [What you used it for]
 - Example: "Generated boilerplate React components"
